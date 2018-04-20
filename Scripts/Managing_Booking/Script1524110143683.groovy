@@ -61,5 +61,3 @@ WebUI.verifyElementPresent(findTestObject('Page_Cebu Pacific - Passengers/h2_Now
 
 WebUI.delay(2)
 
-WebUI.closeBrowser()
-
