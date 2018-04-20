@@ -45,7 +45,7 @@ WebUI.click(findTestObject('Page_Cebu Pacific Air - Just go/span_20'))
 
 WebUI.click(findTestObject('Page_Cebu Pacific Air - Just go/button_FIND FLIGHTS'))
 
-WebUI.click(findTestObject('Page_Cebu Pacific - Select Flight/div_PHP 11239.00'))
+WebUI.click(findTestObject('Sample/cssRadio row3'))
 
 WebUI.verifyElementPresent(findTestObject('Page_Cebu Pacific - Select Flight/div_The following applies to Y'), 0)
 
